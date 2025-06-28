@@ -35,30 +35,28 @@ A repo to learn Terraform
 ## AWS
 
 - [Configuration](./aws/configuration/configuration.md)
-- [1st Project - Creating an EC2 Instance](./aws/ec2_1st_instance/ec2_1st_instance.md)
-- [Using Variable](./aws/ec2_variable/ec2_variable.md)
+- EC2
+
+  - [1st Project - Creating an EC2 Instance](./aws/ec2_1st_instance/ec2_1st_instance.md)
+  - [Using Variable](./aws/ec2_variable/ec2_variable.md)
+
+- ECS
+  - [1st ecs](./aws/ecs_1st/ecs_1st.md)
+- API + Lambda
+  - [1st API + Lambda](./aws/api_lambda/api_lambda.md)
 
 ---
 
-### ECS
+## Cloudflare
 
-- [1st ecs](./aws/ecs_1st/ecs_1st.md)
+- [DNS](./cloudflare/dns/dns.md)
 
 ---
 
-- Tutorial:
+## Docs
 
-  - ECS: https://spacelift.io/blog/terraform-ecs
-  - API: https://spacelift.io/blog/terraform-api-gateway
-  - S3:
+- AWS: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
-- Docs:
-
-  - AWS: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
   - EC2: https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
 
----
-
-- Advanced
-- remote backend
-  - use S3
+- Cloudflare: https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs
