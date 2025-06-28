@@ -40,11 +40,17 @@ A repo to learn Terraform
 
 ---
 
+### ECS
+
+- [1st ecs](./aws/ecs_1st/ecs_1st.md)
+
+---
+
 - Tutorial:
 
   - ECS: https://spacelift.io/blog/terraform-ecs
   - API: https://spacelift.io/blog/terraform-api-gateway
-  - S3: 
+  - S3:
 
 - Docs:
 
