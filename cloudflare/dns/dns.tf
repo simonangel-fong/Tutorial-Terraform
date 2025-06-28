@@ -1,5 +1,5 @@
 resource "cloudflare_record" "test" {
-  zone_id = data.cloudflare_zone.arguswatcher.id
+  zone_id = data.cloudflare_zone.record_name.id
   name    = "test"
   content = "aws_api"
   type    = "CNAME"

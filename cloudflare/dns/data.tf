@@ -1,3 +1,3 @@
-data "cloudflare_zone" "arguswatcher" {
+data "cloudflare_zone" "record_name" {
   name = "example.net"
 }

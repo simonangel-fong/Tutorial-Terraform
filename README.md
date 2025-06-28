@@ -35,6 +35,8 @@ A repo to learn Terraform
 ## AWS
 
 - [Configuration](./aws/configuration/configuration.md)
+- S3
+  - [Web site + cloudflare](./aws_s3/web_host_cloudflare/web_host_cloudflare.md)
 - EC2
 
   - [1st Project - Creating an EC2 Instance](./aws/ec2_1st_instance/ec2_1st_instance.md)
