@@ -36,6 +36,7 @@ A repo to learn Terraform
 
 - [Configuration](./aws/configuration/configuration.md)
 - S3
+
   - [Web site + cloudflare](./aws_s3/web_host_cloudflare/web_host_cloudflare.md)
 
 - EC2
@@ -44,10 +45,12 @@ A repo to learn Terraform
   - [Using Variable](./aws/ec2_variable/ec2_variable.md)
 
 - ECS
-  - [1st ecs](./aws/ecs_1st/ecs_1st.md)
-- API + Lambda
-  - [1st API + Lambda](./aws/api_lambda/api_lambda.md)
 
+  - [Nginx Container](./aws_ecs/nginx/nginx.md)
+
+- API + Lambda
+
+  - [1st API + Lambda](./aws/api_lambda/api_lambda.md)
 
 - AWS Lambda
   - [Layer](./aws_lambda/layer/layer.md)

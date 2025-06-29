@@ -3,7 +3,7 @@
 [Back](../../README.md)
 
 - [Terraform - AWS ECS: 1st](#terraform---aws-ecs-1st)
-  - [Overview](#overview)
+  - [??Overview](#overview)
   - [init](#init)
   - [Network](#network)
     - [VPC](#vpc)
@@ -23,7 +23,7 @@
 
 ---
 
-## Overview
+## ??Overview
 
 ![diagram](./pic/diagram.jpg)
 
@@ -237,11 +237,11 @@ resource "aws_security_group" "ecs_sg" {
 
 ### Create the ECS service
 
-Name: 
-Cluster: 
-Task definition: 
-Desired count: 
-Network configuration: 
-Placement constraints: 
-Capacity provider strategy: 
-Load balancer: 
+Name:
+Cluster:
+Task definition:
+Desired count:
+Network configuration:
+Placement constraints:
+Capacity provider strategy:
+Load balancer:
