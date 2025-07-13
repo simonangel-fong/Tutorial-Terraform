@@ -40,6 +40,12 @@ terraform {
       version = "~> 6.0.0"
     }
   }
+
+  backend "s3" {
+    bucket = ""
+    region = ""
+    key    = ""
+  }
 }
 
 # Configure the AWS Provider
