@@ -4,6 +4,11 @@ A repo to learn Terraform
 
 ---
 
+## Fundamental
+
+- [Fundamental](./doc/fundamental/fundamental.md)
+- [Configure Remote Backend](./doc/backend/backend.md)
+
 ## Common Commands
 
 | CMD                             | DESC                                                                  |
@@ -28,9 +33,6 @@ A repo to learn Terraform
 | `terraform workspace select`    | Switches to another workspace                                         |
 
 ---
-
-- [Installation](./installation/installation.md)
-- Fundamental
 
 ## AWS
 

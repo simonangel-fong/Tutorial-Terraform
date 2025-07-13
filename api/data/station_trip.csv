@@ -1,0 +1,101 @@
+trip_count_by_start,dim_station_id,dim_station_name,dim_year
+43765,7006,Bay St / College St (East Side),2023
+43490,7076,York St / Queens Quay W,2023
+40380,7076,York St / Queens Quay W,2022
+39554,7033,Union Station,2023
+37567,7030,Bay St / Wellesley St W,2023
+35846,7038,Dundas St W / Yonge St,2023
+35799,7076,York St / Queens Quay W,2021
+35620,7418,College Park - Yonge St Entrance,2023
+34785,7542,Queen St W / John St,2023
+34082,7322,East Liberty St / Western Battery Rd,2023
+33004,7006,Bay St / College St (East Side),2024
+32907,7016,Bay St / Queens Quay W (Ferry Terminal),2023
+32744,7022,Simcoe St / Queen St W,2023
+32735,7462,Richmond St E / Yonge St,2023
+32443,7076,York St / Queens Quay W,2024
+32420,7006,Bay St / College St (East Side),2022
+30938,7261,Queens Quay E / Lower Sherbourne St,2020
+30456,7242,Lake Shore Blvd W / Ontario Dr,2020
+30271,7100,Dundas St E / Regent Park Blvd,2023
+29676,7016,Bay St / Queens Quay W (Ferry Terminal),2022
+29625,7720,King St W / Portland St,2023
+29458,7078,College St / Major St,2023
+29333,7002,St. George St / Bloor St W,2023
+29291,7076,York St / Queens Quay W,2019
+29043,7007,College St / Huron St,2023
+28920,7033,Union Station,2024
+28879,7102,Nelson St / Duncan St,2023
+28687,7248,Baldwin St / Spadina Ave - SMART,2023
+28205,7285,Spadina Ave / Harbord St - SMART,2023
+28113,7000,Fort York  Blvd / Capreol Ct,2023
+27946,7171,Ontario Place Blvd / Lake Shore Blvd W,2021
+27919,7298,Bathurst St / Adelaide St W,2023
+27812,7030,Bay St / Wellesley St W,2024
+27542,7253,John St  / Mercer St - SMART,2023
+27525,7168,Queens Quay / Yonge St,2023
+27377,7399,Lower Jarvis St / Queens Quay E,2023
+27250,7041,Edward St / Yonge St,2023
+27231,7016,Bay St / Queens Quay W (Ferry Terminal),2021
+27116,7324,King St W / Charlotte St,2023
+26676,7242,Lake Shore Blvd W / Ontario Dr,2021
+26614,7261,Queens Quay E / Lower Sherbourne St,2021
+26565,7430,Marilyn Bell Park Tennis Court,2020
+26470,7175,HTO Park (Queens Quay W),2022
+26147,7030,Bay St / Wellesley St W,2022
+26129,7175,HTO Park (Queens Quay W),2020
+26123,7175,HTO Park (Queens Quay W),2021
+26088,7322,East Liberty St / Western Battery Rd,2022
+25930,7242,Lake Shore Blvd W / Ontario Dr,2022
+25837,7078,College St / Major St,2022
+25792,7038,Dundas St W / Yonge St,2022
+25747,7089,Church St  / Wood St,2023
+25746,7199,College St / Markham St,2023
+25727,7076,York St / Queens Quay W,2020
+25726,7203,Bathurst St/Queens Quay(Billy Bishop Airport),2021
+25716,7246,Yonge St / Bloor St,2023
+25675,7171,Ontario Place Blvd / Lake Shore Blvd W,2020
+25645,7042,Sherbourne St / Wellesley St E,2023
+25494,7432,Frederick St / King St E,2023
+25333,7078,College St / Major St,2024
+25174,7261,Queens Quay E / Lower Sherbourne St,2022
+24986,7389,College Park - Gerrard Entrance,2023
+24940,7682,Bathurst St / Front St W,2023
+24839,7016,Bay St / Queens Quay W (Ferry Terminal),2024
+24839,7281,Charles St W / Balmuto St - SMART,2023
+24725,7015,King St W / Bay St (West Side),2023
+24669,7418,College Park - Yonge St Entrance,2022
+24397,7542,Queen St W / John St,2022
+24376,7033,Union Station,2022
+24363,7217,Soho St / Queen St W,2022
+24318,7168,Queens Quay / Yonge St,2022
+24126,7720,King St W / Portland St,2024
+24079,7027,Beverley St / Dundas St W,2023
+24071,7542,Queen St W / John St,2024
+23980,7100,Dundas St E / Regent Park Blvd,2022
+23930,7391,Yonge St / Dundas Sq,2023
+23747,7399,Lower Jarvis St / Queens Quay E,2022
+23701,7260,Spadina Ave / Adelaide St W,2023
+23638,7007,College St / Huron St,2022
+23461,7121,Jarvis St / Dundas St E,2023
+23316,7160,King St W / Tecumseth St,2023
+23291,7171,Ontario Place Blvd / Lake Shore Blvd W,2022
+23277,7022,Simcoe St / Queen St W,2022
+23118,7271,Yonge St / Alexander St - SMART,2023
+23055,7203,Bathurst St/Queens Quay(Billy Bishop Airport),2022
+23027,7248,Baldwin St / Spadina Ave - SMART,2024
+22976,7261,Queens Quay E / Lower Sherbourne St,2023
+22925,7168,Queens Quay / Yonge St,2024
+22923,7121,Jarvis St / Dundas St E,2022
+22889,7000,Fort York  Blvd / Capreol Ct,2022
+22678,7430,Marilyn Bell Park Tennis Court,2021
+22646,7058,Huron St / Harbord St,2023
+22600,7721,Widmer St / King St W,2023
+22538,7016,Bay St / Queens Quay W (Ferry Terminal),2020
+22487,7016,Bay St / Queens Quay W (Ferry Terminal),2019
+22333,7430,Marilyn Bell Park Tennis Court,2022
+22265,7462,Richmond St E / Yonge St,2022
+22223,7168,Queens Quay / Yonge St,2021
+22144,7389,College Park - Gerrard Entrance,2022
+22134,7269,Toronto Eaton Centre (Yonge St) - SMART,2023
+22123,7311,Sherbourne St / Isabella St,2023

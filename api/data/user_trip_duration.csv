@@ -1,0 +1,13 @@
+dim_user_type_id,dim_year,dim_user_type_name,duration_avg,trip_count
+1,2021,Annual Member,770.53,2138182
+2,2024,Casual Member,1049.62,3940590
+2,2019,Casual Member,1949.92,580069
+1,2022,Annual Member,706.12,1738981
+2,2022,Casual Member,1116.4,2876857
+1,2023,Annual Member,711.68,364130
+1,2020,Annual Member,808.43,1870731
+2,2023,Casual Member,1104.39,5342871
+1,2024,Annual Member,696.24,495655
+1,2019,Annual Member,760.48,1858938
+2,2021,Casual Member,1435.39,1431361
+2,2020,Casual Member,1803.1,1037921
